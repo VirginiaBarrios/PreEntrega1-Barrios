@@ -33,7 +33,7 @@ for (let i = 0; i <= 3; i++) {
             
             break;
         case 3:
-            pregunta = "Con respecto a la exposición al sol, 1.¿es mejor dejar la planta al sol directo durante pocas horas o 2. con abundante luz solar indirecta? (Elegir entre 1 y 2)";
+            pregunta = "Con respecto a la exposición al sol, ¿es mejor 1.dejar la planta al sol directo durante pocas horas o 2. con abundante luz solar indirecta? (Elegir entre 1 y 2)";
             respuestaCorrecta = "2";
             
             comprobarRespuesta(pregunta,respuestaCorrecta)
